@@ -1,7 +1,7 @@
 theme-simple
 ============
 
-The official theme repo for Simple. Fork this to use it as a boilerplate.
+The official theme repo for Simple. Fork this to use it as a boilerplate..
 
 ## Getting Started
 
